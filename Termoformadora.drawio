@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="yNcpjdk3RDNo13DC7Str">
-    <mxGraphModel dx="1894" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,14 +20,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-2" target="Ge8NZZEA4h7eeyGSVmn_-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="80" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-2" target="Ge8NZZEA4h7eeyGSVmn_-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-2" value="Fuente AC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-2" value="Fuente AC&lt;div&gt;120 VAC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-3" target="Ge8NZZEA4h7eeyGSVmn_-4">
@@ -53,11 +49,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-4" value="Arduino&lt;div&gt;(controlador)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-4" value="Arduino UNO&lt;div&gt;(controlador)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-5" value="Aspiradora" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-15" target="Ge8NZZEA4h7eeyGSVmn_-17">
           <mxGeometry relative="1" as="geometry" />
@@ -84,13 +80,13 @@
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-22" target="Ge8NZZEA4h7eeyGSVmn_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-22" value="Etapa potencia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-22" value="Etapa potencia:&lt;div&gt;(Darlington: Controla Corriente)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-26" target="Ge8NZZEA4h7eeyGSVmn_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-26" value="On/Off" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-26" value="&lt;div&gt;Switch:&lt;/div&gt;On/Off" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-28" value="Pantalla 1:&lt;div&gt;Temperatura&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -98,6 +94,12 @@
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-29" value="&lt;div&gt;LED 1:&lt;/div&gt;Indicador Off/On" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-32" target="Ge8NZZEA4h7eeyGSVmn_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-32" value="Botón Manual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

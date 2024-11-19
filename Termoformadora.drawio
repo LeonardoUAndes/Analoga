@@ -58,12 +58,8 @@
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-15" target="Ge8NZZEA4h7eeyGSVmn_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-15" target="Ge8NZZEA4h7eeyGSVmn_-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="890" y="340" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Ge8NZZEA4h7eeyGSVmn_-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-15" target="Ge8NZZEA4h7eeyGSVmn_-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-15" value="&lt;div&gt;Sensor 1:&lt;/div&gt;Termocupla" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="210" width="120" height="60" as="geometry" />

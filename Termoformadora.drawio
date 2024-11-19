@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="yNcpjdk3RDNo13DC7Str">
-    <mxGraphModel dx="1845" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1689" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-2" value="Fuente AC&lt;div&gt;120 VAC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-3" target="Ge8NZZEA4h7eeyGSVmn_-4">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-32" value="Botón Manual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ge8NZZEA4h7eeyGSVmn_-36" target="Ge8NZZEA4h7eeyGSVmn_-3">
           <mxGeometry relative="1" as="geometry" />

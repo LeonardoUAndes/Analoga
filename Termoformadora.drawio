@@ -69,7 +69,7 @@
         </mxCell>
         <mxCell id="TDv_XsuFNwHA5ezzhaTB-20" value="muestra" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ge8NZZEA4h7eeyGSVmn_-31" vertex="1" connectable="0">
           <mxGeometry x="-0.5474" y="-3" relative="1" as="geometry">
-            <mxPoint x="17" y="3" as="offset" />
+            <mxPoint x="27" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ge8NZZEA4h7eeyGSVmn_-4" value="Arduino UNO&lt;div&gt;(controlador)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
